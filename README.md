@@ -1,0 +1,2 @@
+# hello
+Sample Go Module
